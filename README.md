@@ -1,1 +1,1 @@
-hello world exmaple
+hello world examaple
